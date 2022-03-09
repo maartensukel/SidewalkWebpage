@@ -5,8 +5,8 @@ missing.ramp = Ontbrekende Trottoir Oprit
 missing.ramps = Ontbrekende Trottoir Opritten
 obstacle = Obstakel in het pad
 obstacles = Obstakelels in het pad
-surface.problem = Oppervlakte Probleem
-surface.problems = Oppervlakte Problemen
+surface.problem = Oppervlakte probleem
+surface.problems = Oppervlakte problemen
 no.sidewalk = Geen Trottoir
 crosswalk = Oversteekplaats
 signal = Verkeerslicht
@@ -27,7 +27,7 @@ feedback.title = Nog ideeën? Ben je tegen iets verwarrends aangelopen? Of heb j
 
 navbar.explore = Start met Verkennen
 navbar.validate = Start met Valideren
-navbar.howto = Hoe te Lablen
+navbar.howto = Hoe te Labelen
 navbar.results = Resultaten Kaart
 navbar.data = Data
 navbar.labelmap = Label Kaart
@@ -42,7 +42,7 @@ navbar.city = Stad
 navbar.lang.aria = Taal Opties
 navbar.lang.icon.alt = talen icoon
 
-landing.create.path = Laten we een pad voor iedereen creëren
+landing.create.path = Samen de stad toegankelijk maken voor iedereen
 landing.also.in = We zijn ook in:
 landing.mapathon = Woon je in {0}? Kom dan langs <a id="mapathonLink" class="other-city-link" href="{1}" target="_blank"> bij een van onze mapathon events in jouw buurt!</a>
 landing.how.you.help = Hoe je kunt helpen
@@ -54,7 +54,7 @@ landing.video.title = Wat is Project Sidewalk?
 landing.video.watch = Bekijk Nu
 landing.choropleth.title = Selecteer een Wijk
 landing.choropleth.content = Je krijgt automatisch een wijk toegewezen als je op ''Start met Verkennen'' klikt, maar je kunt er ook zelf een kiezen door hieronder op een wijk te klikken!
-landing.choropleth.legend = Procent van de Wijk Compleet
+landing.choropleth.legend = Procent van de wijk compleet
 landing.stats.title = Je bijdrage maakt het verschil
 landing.stats.content.unfinished = Gebruikers zoals jij hebben al {0} kilometer van {1} in kaart gebracht, {2}—dat is {3}% van de stad!
 landing.stats.content.finished = We hebben het geflikt! Gebruikers zoals jij hebben al {0} kilometer van {1} in kaart gebracht, {2}. Echter zijn we nog niet klaar. Hoe meer gebruikers bijdragen, des te hoger wordt de kwaliteit van de data. Dus start vandaag nog met het verkennen!
