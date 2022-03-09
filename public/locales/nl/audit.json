@@ -185,7 +185,7 @@
         }
     },
     "popup": {
-        "start-title": "Laten we eraan beginnen!",
+        "start-title": "Laten we beginnen!",
         "start-body": "We hebben je verplaatst naar een straat in {{neighborhood}}, {{city}}! Je staat momenteel op het kruispunt. Vind en label alle trottoir opritten en toegankelijkheidsproblemen op dit kruispunt.",
         "step-title": "Laten we vooruit verplaatsen!",
         "step-body": "Het lijkt erop dat je het hele kruispunt hebt bekeken, dus het is tijd om andere gebieden te verkennen. Beweeg je in de richting van de rode lijn die gehighlight is op de kaart.",
